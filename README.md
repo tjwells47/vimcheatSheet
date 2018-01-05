@@ -1,5 +1,5 @@
 # Vim Cheat Sheet
-Vim cheat sheet extension for Argos
+Vim cheat sheet gnome extension for Argos
 
 Argos lets you write GNOME Shell extensions in a language that every Linux user is already intimately familiar with: Bash scripts.
 
