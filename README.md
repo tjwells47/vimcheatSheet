@@ -1,5 +1,5 @@
-<h1>Vim Cheat Sheet<h1>
-<p>Vim cheat sheet extension for Argos</p>
+<h1>Vim Cheat Sheet</h1>
+Vim cheat sheet extension for Argos
 
 
 <h3>Screenshot</h3>
